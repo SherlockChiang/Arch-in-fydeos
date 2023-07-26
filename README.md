@@ -3,6 +3,7 @@
 
 <!--more-->
 
+[English version][6]
 # 前言
 之前已经有人写过类似教程了。但是，随着chromeos的版本更新，过去的操作变得不再适用。目前，我们失去了一个很好的安装arch的方法。
 
@@ -273,3 +274,4 @@ Archwiki会推荐一上来先干掉自带的debian，不过这样的话就会无
   [3]: https://12101111.github.io/install-archlinux-on-fydeos/
   [4]: https://wiki.archlinuxcn.org/wiki/Chrome_OS_devices/Crostini
   [5]: https://www.jianshu.com/p/4444bb4f8452
+  [6]: https://github.com/SherlockChiang/arch-in-fydeos/blob/main/README_en.md
